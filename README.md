@@ -1,4 +1,4 @@
 # hubdemo
-this is repository
+this is repository.
 <br>
 Author
